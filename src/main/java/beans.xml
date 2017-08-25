@@ -14,7 +14,5 @@
 	</bean>
 	
 	
-	
-	
 	<import resource="security-config.xml" />
 </beans>
